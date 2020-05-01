@@ -52,4 +52,4 @@ Data_merged <- data_merged %>%
         group_by(Subject, Activity) %>%
         summarise_all(funs(mean))
 
-write.csv(Data_merged, "tidy_data.csv")
+write.table(Data_merged, file = "tidy_data.txt")
