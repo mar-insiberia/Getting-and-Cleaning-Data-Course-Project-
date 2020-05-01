@@ -37,4 +37,4 @@ Merge labels and data
 3. Merge the total train and test data to data_merged 
 4. Group and average the mean to Data_merged 
 
-Write data to "tidy_data.csv"
+Write data to "tidy_data.txt"
