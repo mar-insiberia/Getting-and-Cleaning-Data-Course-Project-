@@ -1,5 +1,7 @@
 Code Book 
+
 Getting and Cleaning Data Course Project
+
 This repo explains how all of the scripts work and how they are connected.
 Therefore, here it is discussed how the data was downloaded, cleaned and organized as a tidy dataset.
 Dataset use in this project can be found here:
